@@ -5,6 +5,9 @@
  */
 package dev.galasa.genapp.manager;
 
+/**
+ * Endowment CB12-policy
+ */
 public interface IEndowmentPolicy {
 
     public int getPolicyNumber();

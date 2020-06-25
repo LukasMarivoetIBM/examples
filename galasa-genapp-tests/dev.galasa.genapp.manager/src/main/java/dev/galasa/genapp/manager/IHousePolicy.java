@@ -5,6 +5,9 @@
  */
 package dev.galasa.genapp.manager;
 
+/**
+ * House CB12 Policy
+ */
 public interface IHousePolicy {
 
     public int getPolicyNumber();

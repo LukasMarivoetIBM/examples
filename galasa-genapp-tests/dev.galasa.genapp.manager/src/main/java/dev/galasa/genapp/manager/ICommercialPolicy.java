@@ -5,6 +5,9 @@
  */
 package dev.galasa.genapp.manager;
 
+/**
+ * Commercial CB12 Policy
+ */
 public interface ICommercialPolicy {
 
     public int getPolicyNumber();

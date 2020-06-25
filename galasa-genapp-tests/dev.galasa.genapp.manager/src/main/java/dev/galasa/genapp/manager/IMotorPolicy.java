@@ -5,6 +5,9 @@
  */
 package dev.galasa.genapp.manager;
 
+/**
+ * Motor CB12 Policy
+ */
 public interface IMotorPolicy {
 
     public int getPolicyNumber();

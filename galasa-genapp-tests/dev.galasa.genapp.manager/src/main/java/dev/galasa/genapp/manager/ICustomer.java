@@ -5,6 +5,9 @@
  */
 package dev.galasa.genapp.manager;
 
+/**
+ * CB12-customer
+ */
 public interface ICustomer {
 
     public int getCustomerNumber();

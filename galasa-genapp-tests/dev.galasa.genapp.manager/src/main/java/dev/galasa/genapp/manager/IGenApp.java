@@ -5,6 +5,9 @@
  */
 package dev.galasa.genapp.manager;
 
+/**
+ * The full interface for the Galasa General application CB12 (CICS)
+ */
 public interface IGenApp {
 
     /**
